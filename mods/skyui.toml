@@ -1,5 +1,6 @@
 name = "skyui"
 display_name = "SkyUI"
 description = "Elegant, PC-friendly interface mod with many advanced features"
+authors = []
 game = "skyrimspecialedition"
 nexus_id = 12604
