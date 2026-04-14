@@ -6,4 +6,4 @@ game = "skyrimspecialedition"
 nexus_id = 12604
 
 [versions]
-6 = { file_id = 739315, version = "6.8" }
+latest = { file_id = 739315, version = "6.8" }
