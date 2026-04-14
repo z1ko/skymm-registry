@@ -4,3 +4,6 @@ description = "Elegant, PC-friendly interface mod with many advanced features"
 authors = []
 game = "skyrimspecialedition"
 nexus_id = 12604
+
+[versions]
+6 = { file_id = "739315", version = "6.8" }
